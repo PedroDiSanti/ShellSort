@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/ShellSort.dir/main.c.o  -o ShellSort 
